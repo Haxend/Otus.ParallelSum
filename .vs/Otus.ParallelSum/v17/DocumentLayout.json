@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Otus.ParallelSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\sumcalculationstrategy\\threadsumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\sumcalculationstrategy\\threadsumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\sumcalculationstrategy\\isumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\sumcalculationstrategy\\isumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\sumcalculationstrategy\\ordinarysumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\sumcalculationstrategy\\ordinarysumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\sumcalculationstrategy\\parallelsumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\sumcalculationstrategy\\parallelsumcalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\numbersgenerator\\inumbersgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\numbersgenerator\\inumbersgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\services\\numbersgenerator\\numbersgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\services\\numbersgenerator\\numbersgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|d:\\projects\\otus.parallelsum\\otus.parallelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F696917-893A-450B-BCFA-8721AF0F9ECB}|Otus.ParallelSum\\Otus.ParallelSum.csproj|solutionrelative:otus.parallelsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadSumCalculationStrategy.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ThreadSumCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ThreadSumCalculationStrategy.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ThreadSumCalculationStrategy.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ThreadSumCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:30.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParallelSumCalculationStrategy.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ParallelSumCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ParallelSumCalculationStrategy.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ParallelSumCalculationStrategy.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ParallelSumCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:28.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdinarySumCalculationStrategy.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\OrdinarySumCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\OrdinarySumCalculationStrategy.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\OrdinarySumCalculationStrategy.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\OrdinarySumCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:27.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISumCalculationStrategy.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ISumCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ISumCalculationStrategy.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\SumCalculationStrategy\\ISumCalculationStrategy.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\SumCalculationStrategy\\ISumCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:26.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INumbersGenerator.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\NumbersGenerator\\INumbersGenerator.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\NumbersGenerator\\INumbersGenerator.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\NumbersGenerator\\INumbersGenerator.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\NumbersGenerator\\INumbersGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumbersGenerator.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\NumbersGenerator\\NumbersGenerator.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Services\\NumbersGenerator\\NumbersGenerator.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Services\\NumbersGenerator\\NumbersGenerator.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Services\\NumbersGenerator\\NumbersGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:25:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Program.cs",
+              "RelativeDocumentMoniker": "Otus.ParallelSum\\Program.cs",
+              "ToolTip": "D:\\Projects\\Otus.ParallelSum\\Otus.ParallelSum\\Program.cs",
+              "RelativeToolTip": "Otus.ParallelSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:24:55.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
